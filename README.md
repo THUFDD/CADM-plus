@@ -66,7 +66,6 @@ total time:58.81265616416931s
 <p align="center">(g) LSudden_3</p>
 
 
-
 ### Benchmark Datasets
 - HYP_05 (from scikit-multiflow):
 ```
